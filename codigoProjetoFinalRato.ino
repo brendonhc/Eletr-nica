@@ -1,11 +1,10 @@
 /*Trabalho final da Disciplina Eletronica para Computacao
    SCC0180 - Professor: Eduardo Valle Simoes
-   Alunos:  Brendon Hudson Cardoso - 10284879
-            Jonas Wendel - 10295461
-            Alexis de Almeida Coutinho - 10295311
+   Alunos:  Brendon Hudson Cardoso
+            Jonas Wendel
+            Alexis de Almeida Coutinho
    Rato robo feito com arduino e sensores que detectam obstaculos e
-   a presenca de pessoas, o mesmo desvia dos obstaculos e foge com
-   mais intensidade das pessoas.
+   a presenca de pessoas e desvia.
 */
 
 #include <Servo.h>
